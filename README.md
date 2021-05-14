@@ -1,6 +1,6 @@
 ### 👋 欢迎访问我的Github
 
-一名热爱技术与分享的前端工程师
+你好，我是c10342，一名热爱技术与分享的前端工程师，闲来无事喜欢打王者荣耀。目前正在研发开源一套`vue`组件库和`微信小程序`组件库，有兴趣的同学可以加我QQ号:`1376023740`，一起学习交流。
 
 **主要技术栈:**  
 
@@ -11,7 +11,7 @@
 
 [![c10342's github stats](https://github-readme-stats.vercel.app/api?username=c10342&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-**开源项目**
+**开源项目:**
 
 [![player](https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=c10342&repo=player)](https://github.com/c10342/player)
 [![lin-view-ui](https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=c10342&repo=lin-view-ui)](https://github.com/c10342/lin-view-ui)
