@@ -16,3 +16,4 @@
 [![player](https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=c10342&repo=player)](https://github.com/c10342/player)
 [![lin-view-ui](https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=c10342&repo=lin-view-ui)](https://github.com/c10342/lin-view-ui)
 [![lin-wx-ui](https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=c10342&repo=lin-wx-ui)](https://github.com/c10342/lin-wx-ui)
+[![media-player](https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=c10342&repo=media-player)](https://github.com/c10342/media-player)
