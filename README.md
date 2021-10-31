@@ -11,7 +11,6 @@
 
 [![c10342's github stats](https://github-readme-stats.vercel.app/api?username=c10342&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-**开源项目:**
 
 [![player](https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=c10342&repo=player)](https://github.com/c10342/player)
 [![lin-view-ui](https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=c10342&repo=lin-view-ui)](https://github.com/c10342/lin-view-ui)
